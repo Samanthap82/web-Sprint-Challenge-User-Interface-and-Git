@@ -65,7 +65,6 @@ h1, h2, h3, h4, h5 {
 p {
     line-height: 1.4;
 }
-
 .container {
     width: 800px;
     margin: 0 auto;
@@ -111,6 +110,13 @@ p {
     align-items: center;
     justify-content: center;
 }
+.box1{
+    background-color:green;
+}
+.box1 {
+    background-color:green;     
+}
+.box-three
 
 .bottom-content {
     display: flex;
